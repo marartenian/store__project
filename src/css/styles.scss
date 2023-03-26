@@ -249,37 +249,23 @@ nav {
 
 		}
 		
-		@media screen and (max-width:$tabletL){
-			.nav__icons{
-				form{
-					display: none;
-				}
-				.nav__icons__end{
-					.mobile__icons{
-						display: block;
-	
-						.icons{
-							display:flex;
-							justify-content: center;
-							align-items:center;
-							gap:10px;
-						}
-					}
-					.to__wish__list__btn, .to__basket__btn{
-						display: none;
-					}
-	
-				}
-
-
-			}
-			.nav__menu{
-				display: none;
-			}
-		}
+		
 	}
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
